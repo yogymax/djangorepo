@@ -1,5 +1,7 @@
 from endtoend.variables.varinfo import \
     Student as st
+
+print('added new line')
 '''
 
 Number
