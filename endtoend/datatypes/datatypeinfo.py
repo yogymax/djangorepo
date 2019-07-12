@@ -2,6 +2,9 @@ from endtoend.variables.varinfo import \
     Student as st
 
 print('added new line')
+print('added new line2')
+print('added new line3')
+print('added new line4')
 '''
 
 Number
